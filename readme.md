@@ -4,6 +4,8 @@ LICENSE: [MIT](./license.md)
 
 ![](./assets/1920px-Git-logo.svg.png)
 
+GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
 ---
 
 ## **НАЧНЁМ С НАСТРОЙКИ GIT**
@@ -24,9 +26,15 @@ LICENSE: [MIT](./license.md)
 3. [git clean](./clean.md)
 4. [git pull](./pull.md)
 
+---
+
 КАК ДОБАВИТЬ ИЗОБРАЖЕНИЯ ? -->
  **[Добавления изображений](./image.md)** 
 
+ КАК ПОСМОТРЕТЬ КОММИТЫ ? -->
+ **[Содержание про коммиты](./commmit.md)**
+ 
+
 ---
 
-GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
