@@ -25,6 +25,7 @@ GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0
 2. [git status](./status.md)
 3. [git clean](./clean.md)
 4. [git pull](./pull.md)
+5. [git init](./init.md)
 
 ---
 
@@ -43,7 +44,39 @@ GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0
 
 ![ШРИФТЫ](./assets/18_kak-sdelat-zhirnyy-shrift-v-h.jpg)
 
-Как сделать жирный шрифт и курсивом ?!
-ЧИТАТЬ тут > **[НАЖАТЬ](./widelenie%20teksta.md)**
+**Как сделать жирный шрифт и курсивом ?!**
+## ЧИТАТЬ тут > **[НАЖАТЬ](./widelenie%20teksta.md)**  
+
+
+
+***
+***
+# Цитаты и вставки кода
+
+![](./assets/3.png)
+
+### **Если безанкорные ссылки оформляются двумя угловыми скобками, то для цитаты нужна только одна такая скобка. Все очень просто:**
+
+```
+> Привет! Это цитата
+
+> Это тоже цитата
+
+
+> Это еще одна цитата
+```
+
+*Команда:*
+
+```bash=
+> (ваш текст)
+```
+---
+---
+
+![](./assets/13-1.jpg)
+
+
+
 
 
