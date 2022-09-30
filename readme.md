@@ -6,15 +6,26 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-### Содержание:
+## **НАЧНЁМ С НАСТРОЙКИ GIT**
+![](./assets/157893.jpg)
+
+### Содержание по настройкам
+ 1. [НАЧАЛО РАБОТЫ](./cfg.md)
+ 2. [ВЫДЕЛЕНИЕ ЦВЕТОМ](./color.md)
+ 3. [HELP](./help.md)
+
+ ---
+
+## Несколько команд для работы с GIT
+![](./assets/1648010212_37-kartinkin-net-p-kartinki-dlya-programmistov-40.png)
 
 1. [git add](./add.md)
 2. [git status](./status.md)
 3. [git clean](./clean.md)
 4. [git pull](./pull.md)
 
-
-5. **[Добавления изображений](./image.md)**
+КАК ДОБАВИТЬ ИЗОБРАЖЕНИЯ ? -->
+ **[Добавления изображений](./image.md)** 
 
 ---
 
