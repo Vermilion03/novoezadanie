@@ -12,6 +12,10 @@ LICENSE: [MIT](./license.md)
 2. [git status](./status.md)
 3. [git clean](./clean.md)
 4. [git pull](./pull.md)
+
+
+5. **[Добавления изображений](./image.md)**
+
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
