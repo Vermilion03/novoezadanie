@@ -33,8 +33,17 @@ GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0
 
  КАК ПОСМОТРЕТЬ КОММИТЫ ? -->
  **[Содержание про коммиты](./commmit.md)**
+
+ ЗАГОЛОВКИ --> **[Про заголовки](./zagolowki.md)**
  
 
 ---
+
+## СОДЕРЖАНИЕ ПРО ШРИФТЫ
+
+![ШРИФТЫ](./assets/18_kak-sdelat-zhirnyy-shrift-v-h.jpg)
+
+Как сделать жирный шрифт и курсивом ?!
+ЧИТАТЬ тут > **[НАЖАТЬ](./widelenie%20teksta.md)**
 
 
